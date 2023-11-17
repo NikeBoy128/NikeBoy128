@@ -9,6 +9,7 @@ Me gusta resolver problemas de programación
 * 🌍  I'm based in Colombia
 * 🧠  I'm learning Codeigniter
 * ⚡  Professional valorant player
+* Daniela's version
 
 <a href="https://www.x.com/nikeboy128" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/nikeboy128?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
