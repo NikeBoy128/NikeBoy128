@@ -4,7 +4,7 @@ Hi 👋 My name is Harold
 Web developer
 -------------
 
-Me gusta resolver problemas de programación
+Acutalmente desarollador para Southern Developers
 
 * 🌍  I'm based in Colombia
 * 🧠  I'm learning Codeigniter
